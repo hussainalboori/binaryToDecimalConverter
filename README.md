@@ -1,4 +1,3 @@
-```
 # Binary to Decimal Converter
 
 This is a simple command-line tool that converts a binary number to its decimal equivalent. It takes a binary number as input, converts it to decimal, and outputs the result.
