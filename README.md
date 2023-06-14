@@ -37,6 +37,4 @@ Let's say you have a file named `input.txt` containing the binary number `1010`.
 
 The program will read the binary number from `input.txt`, convert it to decimal (which is `10` in this case), and save the result in `output.txt`.
 
-```
-
 Feel free to customize the content and sections based on your specific project requirements.
